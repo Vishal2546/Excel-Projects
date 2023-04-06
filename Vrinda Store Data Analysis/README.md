@@ -26,4 +26,6 @@ Highest selling category?, etc.<br>
 Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
 <br>
-![Vrinda store ](https://user-images.githubusercontent.com/110054448/230290409-71a9b901-4827-4d9a-8324-a36a2db0671a.png)
+
+![Vrinda store ](https://user-images.githubusercontent.com/110054448/230290862-7dd127e1-133a-4c66-9d2b-1cebd06fb2bd.png)
+
